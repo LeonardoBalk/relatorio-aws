@@ -4,7 +4,7 @@
 ### Aplicação Web Funcionando
 > Acesse via DNS do ALB: `http://final-alb-91048321.us-east-1.elb.amazonaws.com/`
 
-<img width="1920" height="1838" alt="image" src="https://github.com/user-attachments/assets/c57a8f9b-55d6-4f07-a37f-9473c0965fe5" />
+<img width="1920" height="1156" alt="image" src="https://github.com/user-attachments/assets/28550835-8ddc-4ec6-807e-52b9551c198f" />
 
 
 *Interface do sistema de registros de alunos com funcionalidades de cadastro, visualização e exclusão.*
