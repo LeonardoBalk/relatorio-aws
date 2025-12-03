@@ -1,9 +1,7 @@
 # Relatório do Projeto AWS Academy
 ## Aplicativo Web Dimensionável e Altamente Disponível
 
-**Aluno:** Leonardo  
-**Data:** 28 de Novembro de 2025  
-**Curso:** AWS Academy  
+**Aluno:** Leonardo e João Henrique 
 
 ---
 
